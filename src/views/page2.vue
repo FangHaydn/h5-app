@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p @click="go">WORLD</p>
+    <button @click="go">返回P1</button>
   </div>
 </template>
 
