@@ -1,5 +1,8 @@
 # H5+App
 
+## 真机调试
+真机调试使用[HBuilderX](https://dcloud.io/hbuilderx.html)打开项目，识别为H5+项目运行
+
 ## Project setup
 ```
 yarn install
@@ -23,5 +26,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 真机调试
-真机调试使用[HBuilderX]('https://dcloud.io/hbuilderx.html')打开项目，识别为H5+项目运行
+
