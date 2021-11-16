@@ -1,5 +1,5 @@
 module.exports = {
-	publicPath: './',
+	publicPath: './', // 使用相对路径
 	devServer: {
 		overlay: {
 			warnings: false,
